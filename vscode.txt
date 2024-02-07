@@ -1,5 +1,5 @@
 horizontal line ctrl+shift k
-
+============================================================
 
 Visual Studio Code - Remove blank lines from code
 
@@ -8,3 +8,15 @@ Click "Use Regular Expressions".
 In Find specify ^$\n or (^(\s)*$\n)
 leave Replace as blank
 Click "Replace All" All Blank lines will be deleted.
+=================================================================
+Multiple selections (multi-cursor)
+Alt+Click
+VS Code supports multiple cursors for fast simultaneous edits. 
+You can add secondary cursors (rendered thinner) with Alt+Click.
+Each cursor operates independently based on the context it sits in. 
+A common way to add more cursors is with Ctrl+Alt+Down or Ctrl+Alt+Up that insert cursors below or above.
+
+https://code.visualstudio.com/docs/editor/codebasics#:~:text=Multiple%20selections%20(multi%2Dcursor),-VS%20Code%20supports&text=You%20can%20add%20secondary%20cursors,insert%20cursors%20below%20or%20above.
+
+Ctrl+D selects the word at the cursor, or the next occurrence of the current selection.
+===============================================================================================================
