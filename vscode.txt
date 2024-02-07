@@ -1,3 +1,5 @@
+Goto File > Preferences > Keyboard Shortcuts
+===========================
 horizontal line ctrl+shift k
 ============================================================
 
@@ -28,6 +30,11 @@ Column (box) selection
 Place the cursor in one corner and then hold Shift+Alt
 
 ====================================================================
+ctrl+shift+right click -entire line 
+=================================================================
+To move a line or selection up or down in Visual Studio Code, use the Alt + ↑ (Up arrow) for up and Alt + ↓ (Down arrow). Moving lines or selections up or down in code can be useful for refactoring, debugging, and changing control
+==============================================================================================================================
+
 
 
 
