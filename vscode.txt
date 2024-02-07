@@ -1,0 +1,10 @@
+horizontal line ctrl+shift k
+
+
+Visual Studio Code - Remove blank lines from code
+
+In windows, Press Ctrl+H (quick replace).
+Click "Use Regular Expressions".
+In Find specify ^$\n or (^(\s)*$\n)
+leave Replace as blank
+Click "Replace All" All Blank lines will be deleted.
